@@ -16,10 +16,6 @@ This project is a comprehensive interactive Pokedex application that allows Poke
 
 ![](screen1.gif)
 
-## PokeAPI:
+## PokeAPI: https://pokeapi.co/
 
-https://pokeapi.co/
-
-## Pokemon Color:
-
-https://pokemondb.net/pokedex/all
+## Pokemon Color: https://pokemondb.net/pokedex/all
